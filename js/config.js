@@ -175,8 +175,14 @@ class Config {
 			{
 				site: 'ServerFault',
 				icon: 'superuser',
-				url: 'https://superuser.com/',
+				url: 'https://serverfault.com/',
 				category: 'development'
+			},
+			{
+				site: 'Tailscale',
+				icon: 'tailscale',
+				url: 'https://tailscale.com',
+				category: 'server'
 			},
 			{
 				site: 'Amazon',
@@ -209,6 +215,11 @@ class Config {
 			  site: "GitHub",
 			  icon: "github",
 			  url: "https://github.com"
+			},
+			{
+			  site: "YouTube",
+			  icon: "youtube",
+		          url: "https://youtube.com"
 			},
 			{
 			  site: "MDN",
