@@ -96,7 +96,7 @@ class Config {
 			},
 			{
 				site: 'Backblaze',
-				icon: 'gdrive',
+				icon: 'backblaze',
 				url: 'https://backblaze.com',
 				category: 'cloud'
 			},
