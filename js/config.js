@@ -201,6 +201,12 @@ class Config {
 				icon: 'startpage',
 				url: 'https://startpage.com/',
 				category: 'search engine'
+			},
+			{
+				site: 'tetr.io',
+				icon: 'tetr',
+				url: 'https://tetr.io',
+				category: 'Gaming'
 			}
 		];
 
@@ -220,6 +226,11 @@ class Config {
 			  site: "YouTube",
 			  icon: "youtube",
 		          url: "https://youtube.com"
+			},
+			{
+			  site: "tetr.io",
+			  icon: "tetr",
+		          url: "https://tetr.io"
 			},
 			{
 			  site: "MDN",
