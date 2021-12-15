@@ -208,7 +208,7 @@ class Config {
 			{
 			  site: "GitHub",
 			  icon: "github",
-			  url: "https://github.com
+			  url: "https://github.com"
 			},
 			{
 			  site: "MDN",
